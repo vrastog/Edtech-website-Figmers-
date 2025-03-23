@@ -1,0 +1,1757 @@
+.home-page,
+.home-page * {
+  box-sizing: border-box;
+}
+.home-page {
+  background: #ffffff;
+  height: 4039px;
+  position: relative;
+}
+.final {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.header {
+  background: #ffffff;
+  border-style: solid;
+  border-color: rgba(34, 34, 34, 0.5);
+  border-width: 0px 0px 1px 0px;
+  padding: 0px 36px 0px 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 112px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  height: 80px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1272638142 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo-light-png-1 {
+  flex-shrink: 0;
+  width: 199px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 199/150;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 589px;
+  height: 42px;
+  position: static;
+}
+.frame-1272638140 {
+  border-radius: 21px;
+  border-style: solid;
+  border-color: #222222;
+  border-width: 0.6px;
+  padding: 10px 17px 10px 17px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 589px;
+  height: 42px;
+  position: absolute;
+  left: 209px;
+  top: 54px;
+}
+.frame-1272638139 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.search-interface-symbol-1 {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.unlock-knowledge-with-a-single-search {
+  color: rgba(34, 34, 34, 0.7);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-1272638141 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+}
+.courses {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: relative;
+}
+.dark-mode-1 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2c6777;
+  border-width: 1px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.log-in {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-32 {
+  background: #2c6777;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2c6777;
+  border-width: 1px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.register {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.hero-section {
+  background: #f2f2f2;
+  padding: 50px 73px 50px 73px;
+  display: flex;
+  flex-direction: row;
+  gap: 180px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1272638175 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.level-up-your-knowledge-with-interactive-learning-tools {
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+}
+.level-up-your-knowledge-with-interactive-learning-tools-span {
+  color: #222222;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+.level-up-your-knowledge-with-interactive-learning-tools-span2 {
+  color: #52ab99;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+.level-up-your-knowledge-with-interactive-learning-tools-span3 {
+  color: #222222;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+.an-interactive-platform-where-students-learn-grow-and-stay-motivated-through-engaging-lessons-and-gamified-experiences {
+  color: rgba(34, 34, 34, 0.7);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  width: 582px;
+}
+.frame-22 {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #52ab99;
+  border-width: 2px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.explore-courses {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-33 {
+  background: #52ab99;
+  border-radius: 12px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 56px;
+  position: relative;
+  overflow: hidden;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.education-1 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 297px;
+  position: relative;
+  object-fit: cover;
+}
+.tools-section {
+  padding: 50px 71px 90px 71px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.unlock-your-potential-with-customized-solutions {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1272638174 {
+  display: flex;
+  flex-direction: row;
+  gap: 42px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.card-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 404px;
+  height: 700px;
+  position: relative;
+}
+.top-card {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #7f57ec;
+  border-width: 2px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 4px 11.9px 0px rgba(86, 51, 181, 0.5);
+  overflow: hidden;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.all-in-one-subscription {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.access-all-engineering-and-tech-courses-with-a-single-affordable-subscription-starting-at-just-499-for-6-months {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+._17739-1 {
+  flex-shrink: 0;
+  width: 376.43px;
+  height: 376.43px;
+  position: absolute;
+  right: -1.33px;
+  bottom: -238.33px;
+  transform-origin: 0 0;
+  transform: rotate(-31.292deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.bottom-card {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #cc3cd1;
+  border-width: 2px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 4px 12px 0px rgba(177, 51, 181, 0.5);
+  overflow: hidden;
+}
+.personalized-learning-roadmaps {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.ai-generated-tailored-roadmaps-to-guide-your-learning-journey-based-on-your-career-goals {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+._17739-12 {
+  flex-shrink: 0;
+  width: 228.49px;
+  height: 228.49px;
+  position: absolute;
+  right: 18.51px;
+  bottom: -105.86px;
+  transform-origin: 0 0;
+  transform: rotate(-31.205deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.card-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 404px;
+  height: 700px;
+  position: relative;
+}
+.top-card2 {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #2497f7;
+  border-width: 2px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 4px 11.9px 0px rgba(1, 112, 204, 0.5);
+  overflow: hidden;
+}
+.hands-on-projects-and-certifications {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.work-on-practical-projects-and-earn-certifications-to-showcase-your-skills-and-advance-your-career {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+._17739-13 {
+  flex-shrink: 0;
+  width: 250.1px;
+  height: 250.1px;
+  position: absolute;
+  right: -35.84px;
+  bottom: -19.6px;
+  transform-origin: 0 0;
+  transform: rotate(9.84deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.bottom-card2 {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #4f57dc;
+  border-width: 2px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 4px 12px 0px rgba(57, 63, 170, 1);
+  overflow: hidden;
+}
+.hindi-language-courses {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.all-courses-are-delivered-in-hindi-for-a-deeper-understanding-ensuring-accessibility-for-learners-across-india {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+._17739-14 {
+  flex-shrink: 0;
+  width: 202px;
+  height: 202px;
+  position: absolute;
+  right: 19px;
+  bottom: 12px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.card-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 404px;
+  height: 700px;
+  position: relative;
+}
+.bottom-card3 {
+  background: #ffffff;
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #d8ff2a;
+  border-width: 2px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0px 4px 12px 0px rgba(216, 255, 42, 0.5);
+  overflow: hidden;
+}
+.all-courses-are-designed-to-be-delivered-in-hindi-allowing-learners-to-grasp-concepts-with-greater-clarity-this-approach-makes-education-accessible-across-india-bridging-linguistic-barriers-and-empowering-learners-from-diverse-regions-by-prioritizing-inclusivity-it-paves-the-way-for-meaningful-and-effective-learning-experiences {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+._17739-15 {
+  flex-shrink: 0;
+  width: 291.87px;
+  height: 291.87px;
+  position: absolute;
+  right: 27.13px;
+  bottom: -150.47px;
+  transform-origin: 0 0;
+  transform: rotate(-31.292deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.courses2 {
+  background: #f2f2f2;
+  padding: 50px 73px 90px 73px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+  overflow: hidden;
+}
+.popular-courses {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1272638184 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.corse-card-2 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(34, 34, 34, 0.7);
+  border-width: 1.5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+._1st-year-prepration-course-1 {
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 370px;
+  height: 208px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 370/208;
+}
+.frame-1272638179 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1st-year-preparation-course {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: relative;
+  width: 316px;
+}
+.frame-1272638183 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.build-a-solid-foundation-with-essential-concepts-and-skills-for-academic-success-begin-your-journey-with-confidence-and-excel-in-your-first-year {
+  color: rgba(34, 34, 34, 0.7);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  width: 370px;
+}
+.frame-1272638182 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1272638181 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #52ab99;
+  border-width: 2px;
+  padding: 8px 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.buy-now {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1272638180 {
+  background: #52ab99;
+  border-radius: 8px;
+  padding: 8px 23px 8px 23px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.add-to-cart {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.corse-card-1 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(34, 34, 34, 0.7);
+  border-width: 1.5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.google-preparation-course {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: relative;
+  width: 316px;
+}
+.corse-card-3 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(34, 34, 34, 0.7);
+  border-width: 1.5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.bootstrap-preparation-course {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: relative;
+  width: 316px;
+}
+.testimonial-section {
+  background: #ffffff;
+  padding: 50px 73px 80px 73px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+  overflow: hidden;
+}
+.what-our-students-say {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+}
+.reviews {
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+}
+.card-12 {
+  background: linear-gradient(
+    100.58deg,
+    rgba(44, 103, 119, 1) 0%,
+    rgba(82, 171, 153, 1) 100%
+  );
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 426px;
+  height: 181px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1272638176 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-1 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 12px;
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-1272638177 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.aryan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.student {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 8px;
+  font-weight: 400;
+  position: relative;
+}
+.this-platform-made-learning-so-accessible-and-enjoyable-the-practical-projects-gave-me-real-world-skills-and-the-certifications-helped-me-secure-my-dream-job-truly-a-life-changing-experience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  width: 281px;
+}
+.card-2 {
+  background: linear-gradient(
+    100.58deg,
+    rgba(44, 103, 119, 1) 0%,
+    rgba(82, 171, 153, 1) 100%
+  );
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 426px;
+  height: 181px;
+  position: relative;
+  overflow: hidden;
+}
+.vedika {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.the-courses-were-clear-concise-and-delivered-in-hindi-making-it-easy-for-me-to-understand-complex-topics-the-resume-tools-and-job-portal-were-a-blessing-helped-me-land-a-job-effortlessly {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  width: 281px;
+}
+.card-8 {
+  background: linear-gradient(
+    100.58deg,
+    rgba(44, 103, 119, 1) 0%,
+    rgba(82, 171, 153, 1) 100%
+  );
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 406px;
+  height: 181px;
+  position: relative;
+  overflow: hidden;
+}
+.mohit {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.i-ve-gained-so-much-confidence-thanks-to-their-hands-on-approach-to-learning-the-tools-and-certifications-truly-stand-out-highly-recommend-it-for-anyone-looking-to-upskill-and-succeed {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  width: 261px;
+}
+.faq {
+  background: #f2f2f2;
+  padding: 50px 0px 50px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 39.15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+}
+.frequently-asked-question {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 34.258697509765625px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1292px;
+  position: relative;
+}
+.frame-30 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.what-is-included-in-the-99-month-placement-aptitude-logical-reasoning-course {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+  width: 839.83px;
+  height: 27.41px;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-31 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.who-is-this-course-for {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+}
+.group-72 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-322 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.how-do-i-access-the-course-after-enrolling {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+}
+.group-73 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-332 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.is-this-course-enough-to-clear-my-placement-aptitude-test {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+}
+.group-74 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-34 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.what-payment-methods-are-available {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+}
+.group-75 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-35 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.why-should-i-buy-this-course-instead-of-watching-free-you-tube-videos {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+  width: 839.83px;
+  height: 27.41px;
+}
+.group-76 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-36 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.why-is-this-course-only-99-per-month-is-it-low-quality {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+  width: 839.83px;
+  height: 27.41px;
+}
+.group-77 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.frame-37 {
+  background: #ffffff;
+  border-radius: 19.58px;
+  border-style: solid;
+  border-color: #00685f;
+  border-width: 0.98px;
+  padding: 23.49px;
+  display: flex;
+  flex-direction: column;
+  gap: 24.47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1294px;
+  position: relative;
+  box-shadow: 0px 4.89px 15.66px 0px rgba(0, 104, 95, 0.16);
+  overflow: hidden;
+}
+.can-i-cancel-my-subscription-anytime {
+  color: #222222;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 19.576398849487305px;
+  font-weight: 600;
+  position: relative;
+  width: 839.83px;
+  height: 27.41px;
+}
+.group-78 {
+  flex-shrink: 0;
+  width: 39.15px;
+  height: 39.15px;
+  position: relative;
+  overflow: visible;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+}
+.frame-12726381412 {
+  background: #27282a;
+  padding: 42px 0px 42px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1272638145 {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+}
+.frame-1272638111 {
+  display: flex;
+  flex-direction: row;
+  gap: 106px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1440px;
+  position: relative;
+}
+.logo-and-description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 222px;
+  position: relative;
+}
+.logo-light {
+  flex-shrink: 0;
+  width: 165px;
+  height: 38px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1272638110 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1272638067 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contacts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-905-675-6521 {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-1272638066 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.address {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-amet-consecto-adi {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+}
+.line-436 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 300px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.links-container {
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 208px;
+  position: relative;
+}
+.links-row {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.links-column {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 92px;
+  position: relative;
+}
+.footer-link-container {
+  padding: 8px 10px 8px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer-link {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.footer-link-container2 {
+  padding: 8px 10px 8px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.links-column2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 86px;
+  position: relative;
+}
+.social-media-container {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook-icon {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 500px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 10px 13px 10px 13px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+}
+.facebook-icon2 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.instagram-icon {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 522.87px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 10px 13px 10px 13px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+}
+.instagram-icon2 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.twitter-icon {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 522.39px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 10px 13px 10px 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+}
+.twitter-icon2 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: hidden;
+}
+.twitter-icon-vector {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  overflow: visible;
+}
+.linkedin-icon {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 500px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 10px 13px 10px 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+}
+.linkedin-icon2 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  position: relative;
+  overflow: visible;
+}
+.line-437 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 300px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.subscribe-container {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.subscribe-title {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.email-input-container {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 151px;
+  padding: 6px 5px 6px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 288px;
+  height: 70px;
+  position: relative;
+}
+.email-placeholder {
+  color: rgba(242, 242, 242, 0.6);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.signup-button-container {
+  background: #52ab99;
+  border-radius: 114px;
+  padding: 11px 37px 11px 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+}
+.signup-button-text {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1272638144 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1272638143 {
+  display: flex;
+  flex-direction: row;
+  gap: 735px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1330px;
+  position: relative;
+}
+._2025-ezlearn {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-12726381422 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.terms-of-service-privacy-policy-refund-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
